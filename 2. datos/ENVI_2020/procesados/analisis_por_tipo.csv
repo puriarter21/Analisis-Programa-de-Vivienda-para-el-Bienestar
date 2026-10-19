@@ -1,0 +1,9 @@
+﻿tipo,tipo_nombre,potencial,objetivo_pmm,n_muestra_potencial,n_muestra_objetivo,pct_objetivo_de_potencial,hogares_nacional,tasa_potencial_%,tasa_objetivo_%
+C1,Vivienda nueva en conjunto,4284616,3617015,6760,5668,84.42,36210467,11.83,9.99
+C2,Adquisición con crédito,299477,188689,478,290,63.01,36210467,0.83,0.52
+C3,Vivienda nueva en lote propio,1934072,1667887,3222,2776,86.24,36210467,5.34,4.61
+C4A,Mejoramiento,6060590,5279797,10295,8934,87.12,36210467,16.74,14.58
+C4B,Ampliación,5476141,4838758,9404,8269,88.36,36210467,15.12,13.36
+C4C,Accesibilidad,1512013,1340007,2617,2319,88.62,36210467,4.18,3.7
+C7,Unidades habitacionales,172167,118279,175,113,68.7,36210467,0.48,0.33
+C8,Regularización,3214196,2861198,5266,4688,89.02,36210467,8.88,7.9

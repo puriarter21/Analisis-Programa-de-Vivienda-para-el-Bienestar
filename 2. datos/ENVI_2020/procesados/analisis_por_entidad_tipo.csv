@@ -1,0 +1,257 @@
+﻿ENT,ENT_NOMBRE,tipo,tipo_nombre,potencial,objetivo_pmm,n_muestra_potencial,n_muestra_objetivo,pct_objetivo_de_potencial,hogares_entidad,tasa_potencial_%,tasa_objetivo_%
+1,Aguascalientes,C1,Vivienda nueva en conjunto,16771,15450,85,78,92.12,397770,4.22,3.88
+1,Aguascalientes,C2,Adquisición con crédito,1244,1081,6,5,86.9,397770,0.31,0.27
+1,Aguascalientes,C3,Vivienda nueva en lote propio,8461,7812,42,39,92.33,397770,2.13,1.96
+1,Aguascalientes,C4A,Mejoramiento,11278,9622,57,48,85.32,397770,2.84,2.42
+1,Aguascalientes,C4B,Ampliación,10389,8531,54,44,82.12,397770,2.61,2.14
+1,Aguascalientes,C4C,Accesibilidad,3640,3095,18,15,85.03,397770,0.92,0.78
+1,Aguascalientes,C7,Unidades habitacionales,192,0,1,0,0.0,397770,0.05,0.0
+1,Aguascalientes,C8,Regularización,6210,5264,33,28,84.77,397770,1.56,1.32
+2,Baja California,C1,Vivienda nueva en conjunto,207958,128389,342,209,61.74,1156528,17.98,11.1
+2,Baja California,C2,Adquisición con crédito,44314,19676,72,31,44.4,1156528,3.83,1.7
+2,Baja California,C3,Vivienda nueva en lote propio,34184,20975,57,35,61.36,1156528,2.96,1.81
+2,Baja California,C4A,Mejoramiento,251435,141037,399,220,56.09,1156528,21.74,12.19
+2,Baja California,C4B,Ampliación,161085,90404,260,141,56.12,1156528,13.93,7.82
+2,Baja California,C4C,Accesibilidad,66995,37604,107,61,56.13,1156528,5.79,3.25
+2,Baja California,C7,Unidades habitacionales,4548,1704,8,3,37.47,1156528,0.39,0.15
+2,Baja California,C8,Regularización,92457,57116,147,88,61.78,1156528,7.99,4.94
+3,Baja California Sur,C1,Vivienda nueva en conjunto,38496,23464,213,138,60.95,246920,15.59,9.5
+3,Baja California Sur,C2,Adquisición con crédito,3174,1335,23,10,42.06,246920,1.29,0.54
+3,Baja California Sur,C3,Vivienda nueva en lote propio,10965,5199,58,36,47.41,246920,4.44,2.11
+3,Baja California Sur,C4A,Mejoramiento,39461,25025,232,157,63.42,246920,15.98,10.13
+3,Baja California Sur,C4B,Ampliación,34623,21236,189,127,61.33,246920,14.02,8.6
+3,Baja California Sur,C4C,Accesibilidad,5495,3821,42,29,69.54,246920,2.23,1.55
+3,Baja California Sur,C7,Unidades habitacionales,2084,751,5,2,36.04,246920,0.84,0.3
+3,Baja California Sur,C8,Regularización,23062,14079,114,81,61.05,246920,9.34,5.7
+4,Campeche,C1,Vivienda nueva en conjunto,46330,40838,321,280,88.15,262489,17.65,15.56
+4,Campeche,C2,Adquisición con crédito,1952,1436,13,9,73.57,262489,0.74,0.55
+4,Campeche,C3,Vivienda nueva en lote propio,26937,23454,195,169,87.07,262489,10.26,8.94
+4,Campeche,C4A,Mejoramiento,91476,81056,627,554,88.61,262489,34.85,30.88
+4,Campeche,C4B,Ampliación,88388,79156,610,546,89.56,262489,33.67,30.16
+4,Campeche,C4C,Accesibilidad,19542,17901,131,120,91.6,262489,7.44,6.82
+4,Campeche,C7,Unidades habitacionales,0,0,0,0,,262489,0.0,0.0
+4,Campeche,C8,Regularización,31257,28402,221,200,90.87,262489,11.91,10.82
+5,Coahuila de Zaragoza,C1,Vivienda nueva en conjunto,53331,41566,103,81,77.94,913569,5.84,4.55
+5,Coahuila de Zaragoza,C2,Adquisición con crédito,8709,5524,16,10,63.43,913569,0.95,0.6
+5,Coahuila de Zaragoza,C3,Vivienda nueva en lote propio,12578,9975,25,19,79.31,913569,1.38,1.09
+5,Coahuila de Zaragoza,C4A,Mejoramiento,71404,60897,154,130,85.29,913569,7.82,6.67
+5,Coahuila de Zaragoza,C4B,Ampliación,56894,49187,124,107,86.45,913569,6.23,5.38
+5,Coahuila de Zaragoza,C4C,Accesibilidad,24525,21698,49,42,88.47,913569,2.68,2.38
+5,Coahuila de Zaragoza,C7,Unidades habitacionales,0,0,0,0,,913569,0.0,0.0
+5,Coahuila de Zaragoza,C8,Regularización,33250,27793,79,67,83.59,913569,3.64,3.04
+6,Colima,C1,Vivienda nueva en conjunto,26869,20524,231,175,76.39,234272,11.47,8.76
+6,Colima,C2,Adquisición con crédito,2590,1503,21,11,58.03,234272,1.11,0.64
+6,Colima,C3,Vivienda nueva en lote propio,4771,3341,46,34,70.03,234272,2.04,1.43
+6,Colima,C4A,Mejoramiento,30569,23215,261,197,75.94,234272,13.05,9.91
+6,Colima,C4B,Ampliación,21625,16411,193,146,75.89,234272,9.23,7.01
+6,Colima,C4C,Accesibilidad,4894,4285,47,40,87.56,234272,2.09,1.83
+6,Colima,C7,Unidades habitacionales,300,0,3,0,0.0,234272,0.13,0.0
+6,Colima,C8,Regularización,11777,9655,102,84,81.98,234272,5.03,4.12
+7,Chiapas,C1,Vivienda nueva en conjunto,402931,378931,513,484,94.04,1460368,27.59,25.95
+7,Chiapas,C2,Adquisición con crédito,11594,9238,15,12,79.68,1460368,0.79,0.63
+7,Chiapas,C3,Vivienda nueva en lote propio,190331,179309,243,230,94.21,1460368,13.03,12.28
+7,Chiapas,C4A,Mejoramiento,803516,769142,1059,1016,95.72,1460368,55.02,52.67
+7,Chiapas,C4B,Ampliación,754632,726262,997,961,96.24,1460368,51.67,49.73
+7,Chiapas,C4C,Accesibilidad,214952,208262,262,253,96.89,1460368,14.72,14.26
+7,Chiapas,C7,Unidades habitacionales,7368,6598,6,5,89.55,1460368,0.5,0.45
+7,Chiapas,C8,Regularización,470808,458207,642,626,97.32,1460368,32.24,31.38
+8,Chihuahua,C1,Vivienda nueva en conjunto,144684,103058,223,160,71.23,1147667,12.61,8.98
+8,Chihuahua,C2,Adquisición con crédito,22299,14901,31,21,66.82,1147667,1.94,1.3
+8,Chihuahua,C3,Vivienda nueva en lote propio,20284,10998,32,17,54.22,1147667,1.77,0.96
+8,Chihuahua,C4A,Mejoramiento,238817,181438,390,298,75.97,1147667,20.81,15.81
+8,Chihuahua,C4B,Ampliación,133371,102718,221,172,77.02,1147667,11.62,8.95
+8,Chihuahua,C4C,Accesibilidad,39878,30322,64,49,76.04,1147667,3.47,2.64
+8,Chihuahua,C7,Unidades habitacionales,0,0,0,0,,1147667,0.0,0.0
+8,Chihuahua,C8,Regularización,118745,94333,194,153,79.44,1147667,10.35,8.22
+9,Ciudad de México,C1,Vivienda nueva en conjunto,238277,191922,169,137,80.55,2808652,8.48,6.83
+9,Ciudad de México,C2,Adquisición con crédito,30080,19465,19,13,64.71,2808652,1.07,0.69
+9,Ciudad de México,C3,Vivienda nueva en lote propio,73527,59010,59,47,80.26,2808652,2.62,2.1
+9,Ciudad de México,C4A,Mejoramiento,99447,73873,88,67,74.28,2808652,3.54,2.63
+9,Ciudad de México,C4B,Ampliación,80253,62696,82,63,78.12,2808652,2.86,2.23
+9,Ciudad de México,C4C,Accesibilidad,24853,21880,18,16,88.04,2808652,0.88,0.78
+9,Ciudad de México,C7,Unidades habitacionales,36154,19938,21,11,55.15,2808652,1.29,0.71
+9,Ciudad de México,C8,Regularización,69180,54383,75,59,78.61,2808652,2.46,1.94
+10,Durango,C1,Vivienda nueva en conjunto,30652,25987,111,95,84.78,507158,6.04,5.12
+10,Durango,C2,Adquisición con crédito,3142,1900,11,7,60.47,507158,0.62,0.37
+10,Durango,C3,Vivienda nueva en lote propio,17655,15242,64,55,86.33,507158,3.48,3.01
+10,Durango,C4A,Mejoramiento,68476,59240,243,210,86.51,507158,13.5,11.68
+10,Durango,C4B,Ampliación,62020,54401,219,192,87.72,507158,12.23,10.73
+10,Durango,C4C,Accesibilidad,12974,11052,46,40,85.19,507158,2.56,2.18
+10,Durango,C7,Unidades habitacionales,0,0,0,0,,507158,0.0,0.0
+10,Durango,C8,Regularización,36560,32948,129,116,90.12,507158,7.21,6.5
+11,Guanajuato,C1,Vivienda nueva en conjunto,163599,133135,192,158,81.38,1663749,9.83,8.0
+11,Guanajuato,C2,Adquisición con crédito,21144,12533,25,15,59.27,1663749,1.27,0.75
+11,Guanajuato,C3,Vivienda nueva en lote propio,80076,66443,93,78,82.97,1663749,4.81,3.99
+11,Guanajuato,C4A,Mejoramiento,225352,189126,256,217,83.92,1663749,13.54,11.37
+11,Guanajuato,C4B,Ampliación,206671,174809,236,202,84.58,1663749,12.42,10.51
+11,Guanajuato,C4C,Accesibilidad,42944,38590,49,44,89.86,1663749,2.58,2.32
+11,Guanajuato,C7,Unidades habitacionales,3134,2329,4,3,74.31,1663749,0.19,0.14
+11,Guanajuato,C8,Regularización,96254,80683,112,95,83.82,1663749,5.79,4.85
+12,Guerrero,C1,Vivienda nueva en conjunto,220293,203222,401,367,92.25,969487,22.72,20.96
+12,Guerrero,C2,Adquisición con crédito,6393,4662,13,9,72.92,969487,0.66,0.48
+12,Guerrero,C3,Vivienda nueva en lote propio,146230,139047,267,252,95.09,969487,15.08,14.34
+12,Guerrero,C4A,Mejoramiento,365271,344003,650,609,94.18,969487,37.68,35.48
+12,Guerrero,C4B,Ampliación,374892,353877,669,628,94.39,969487,38.67,36.5
+12,Guerrero,C4C,Accesibilidad,127630,123721,230,221,96.94,969487,13.16,12.76
+12,Guerrero,C7,Unidades habitacionales,2456,1441,5,3,58.67,969487,0.25,0.15
+12,Guerrero,C8,Regularización,236758,224007,423,398,94.61,969487,24.42,23.11
+13,Hidalgo,C1,Vivienda nueva en conjunto,68501,62435,139,127,91.14,879538,7.79,7.1
+13,Hidalgo,C2,Adquisición con crédito,1765,1765,4,4,100.0,879538,0.2,0.2
+13,Hidalgo,C3,Vivienda nueva en lote propio,45087,37876,91,77,84.01,879538,5.13,4.31
+13,Hidalgo,C4A,Mejoramiento,131003,122113,267,249,93.21,879538,14.89,13.88
+13,Hidalgo,C4B,Ampliación,120913,113999,247,233,94.28,879538,13.75,12.96
+13,Hidalgo,C4C,Accesibilidad,30775,26770,63,55,86.99,879538,3.5,3.04
+13,Hidalgo,C7,Unidades habitacionales,959,959,2,2,100.0,879538,0.11,0.11
+13,Hidalgo,C8,Regularización,67252,63976,136,129,95.13,879538,7.65,7.27
+14,Jalisco,C1,Vivienda nueva en conjunto,177381,123346,134,94,69.54,2384946,7.44,5.17
+14,Jalisco,C2,Adquisición con crédito,21335,13018,16,10,61.02,2384946,0.89,0.55
+14,Jalisco,C3,Vivienda nueva en lote propio,70315,49854,52,38,70.9,2384946,2.95,2.09
+14,Jalisco,C4A,Mejoramiento,160467,111617,117,82,69.56,2384946,6.73,4.68
+14,Jalisco,C4B,Ampliación,132576,92603,99,69,69.85,2384946,5.56,3.88
+14,Jalisco,C4C,Accesibilidad,35722,25332,26,18,70.91,2384946,1.5,1.06
+14,Jalisco,C7,Unidades habitacionales,7215,6029,3,2,83.56,2384946,0.3,0.25
+14,Jalisco,C8,Regularización,92935,71289,65,51,76.71,2384946,3.9,2.99
+15,México,C1,Vivienda nueva en conjunto,534873,465436,228,195,87.02,4801185,11.14,9.69
+15,México,C2,Adquisición con crédito,27999,22938,12,9,81.92,4801185,0.58,0.48
+15,México,C3,Vivienda nueva en lote propio,221661,197044,97,85,88.89,4801185,4.62,4.1
+15,México,C4A,Mejoramiento,425790,368547,172,148,86.56,4801185,8.87,7.68
+15,México,C4B,Ampliación,391205,341655,163,140,87.33,4801185,8.15,7.12
+15,México,C4C,Accesibilidad,73059,63329,29,25,86.68,4801185,1.52,1.32
+15,México,C7,Unidades habitacionales,54364,40639,13,10,74.75,4801185,1.13,0.85
+15,México,C8,Regularización,254970,219013,105,90,85.9,4801185,5.31,4.56
+16,Michoacán de Ocampo,C1,Vivienda nueva en conjunto,179527,153527,260,224,85.52,1340554,13.39,11.45
+16,Michoacán de Ocampo,C2,Adquisición con crédito,7868,5295,11,8,67.3,1340554,0.59,0.39
+16,Michoacán de Ocampo,C3,Vivienda nueva en lote propio,85145,70100,135,113,82.33,1340554,6.35,5.23
+16,Michoacán de Ocampo,C4A,Mejoramiento,241482,206808,372,326,85.64,1340554,18.01,15.43
+16,Michoacán de Ocampo,C4B,Ampliación,240039,202570,369,319,84.39,1340554,17.91,15.11
+16,Michoacán de Ocampo,C4C,Accesibilidad,54643,45168,86,74,82.66,1340554,4.08,3.37
+16,Michoacán de Ocampo,C7,Unidades habitacionales,6170,3944,6,4,63.92,1340554,0.46,0.29
+16,Michoacán de Ocampo,C8,Regularización,133191,113782,200,177,85.43,1340554,9.94,8.49
+17,Morelos,C1,Vivienda nueva en conjunto,62851,56052,205,179,89.18,593961,10.58,9.44
+17,Morelos,C2,Adquisición con crédito,1202,649,4,2,53.99,593961,0.2,0.11
+17,Morelos,C3,Vivienda nueva en lote propio,30438,27254,102,87,89.54,593961,5.12,4.59
+17,Morelos,C4A,Mejoramiento,93433,83993,273,237,89.9,593961,15.73,14.14
+17,Morelos,C4B,Ampliación,82270,73863,243,211,89.78,593961,13.85,12.44
+17,Morelos,C4C,Accesibilidad,24111,21800,68,59,90.42,593961,4.06,3.67
+17,Morelos,C7,Unidades habitacionales,6833,4936,21,14,72.24,593961,1.15,0.83
+17,Morelos,C8,Regularización,45729,41842,142,127,91.5,593961,7.7,7.04
+18,Nayarit,C1,Vivienda nueva en conjunto,27991,22696,139,114,81.08,364784,7.67,6.22
+18,Nayarit,C2,Adquisición con crédito,2817,1948,14,10,69.15,364784,0.77,0.53
+18,Nayarit,C3,Vivienda nueva en lote propio,12941,11021,65,56,85.16,364784,3.55,3.02
+18,Nayarit,C4A,Mejoramiento,43905,38242,218,190,87.1,364784,12.04,10.48
+18,Nayarit,C4B,Ampliación,42015,37392,210,187,89.0,364784,11.52,10.25
+18,Nayarit,C4C,Accesibilidad,11980,11542,60,58,96.34,364784,3.28,3.16
+18,Nayarit,C7,Unidades habitacionales,1277,722,7,4,56.54,364784,0.35,0.2
+18,Nayarit,C8,Regularización,21379,18764,109,96,87.77,364784,5.86,5.14
+19,Nuevo León,C1,Vivienda nueva en conjunto,82001,68120,93,77,83.07,1702725,4.82,4.0
+19,Nuevo León,C2,Adquisición con crédito,8646,6212,10,7,71.85,1702725,0.51,0.36
+19,Nuevo León,C3,Vivienda nueva en lote propio,33954,27945,38,31,82.3,1702725,1.99,1.64
+19,Nuevo León,C4A,Mejoramiento,78362,64797,95,79,82.69,1702725,4.6,3.81
+19,Nuevo León,C4B,Ampliación,55019,47353,69,59,86.07,1702725,3.23,2.78
+19,Nuevo León,C4C,Accesibilidad,21058,18783,26,23,89.2,1702725,1.24,1.1
+19,Nuevo León,C7,Unidades habitacionales,790,0,1,0,0.0,1702725,0.05,0.0
+19,Nuevo León,C8,Regularización,36843,31508,44,38,85.52,1702725,2.16,1.85
+20,Oaxaca,C1,Vivienda nueva en conjunto,216570,197294,342,312,91.1,1157915,18.7,17.04
+20,Oaxaca,C2,Adquisición con crédito,4759,3547,9,7,74.53,1157915,0.41,0.31
+20,Oaxaca,C3,Vivienda nueva en lote propio,137968,127820,215,196,92.64,1157915,11.92,11.04
+20,Oaxaca,C4A,Mejoramiento,475494,443022,741,689,93.17,1157915,41.06,38.26
+20,Oaxaca,C4B,Ampliación,442542,412377,686,637,93.18,1157915,38.22,35.61
+20,Oaxaca,C4C,Accesibilidad,154553,146612,251,238,94.86,1157915,13.35,12.66
+20,Oaxaca,C7,Unidades habitacionales,546,546,1,1,100.0,1157915,0.05,0.05
+20,Oaxaca,C8,Regularización,249015,238252,385,366,95.68,1157915,21.51,20.58
+21,Puebla,C1,Vivienda nueva en conjunto,204888,184455,226,203,90.03,1777565,11.53,10.38
+21,Puebla,C2,Adquisición con crédito,2883,2019,4,3,70.03,1777565,0.16,0.11
+21,Puebla,C3,Vivienda nueva en lote propio,123038,108403,135,119,88.11,1777565,6.92,6.1
+21,Puebla,C4A,Mejoramiento,288627,265590,314,291,92.02,1777565,16.24,14.94
+21,Puebla,C4B,Ampliación,271226,248713,296,273,91.7,1777565,15.26,13.99
+21,Puebla,C4C,Accesibilidad,98439,87276,107,97,88.66,1777565,5.54,4.91
+21,Puebla,C7,Unidades habitacionales,17016,13066,16,12,76.79,1777565,0.96,0.74
+21,Puebla,C8,Regularización,154390,139715,167,152,90.49,1777565,8.69,7.86
+22,Querétaro,C1,Vivienda nueva en conjunto,53264,41475,139,106,77.87,680255,7.83,6.1
+22,Querétaro,C2,Adquisición con crédito,3485,2210,10,6,63.41,680255,0.51,0.32
+22,Querétaro,C3,Vivienda nueva en lote propio,27838,20918,72,55,75.14,680255,4.09,3.08
+22,Querétaro,C4A,Mejoramiento,63185,55308,158,130,87.53,680255,9.29,8.13
+22,Querétaro,C4B,Ampliación,60849,52154,152,123,85.71,680255,8.95,7.67
+22,Querétaro,C4C,Accesibilidad,20611,17204,57,44,83.47,680255,3.03,2.53
+22,Querétaro,C7,Unidades habitacionales,971,666,3,2,68.59,680255,0.14,0.1
+22,Querétaro,C8,Regularización,33210,26666,84,66,80.3,680255,4.88,3.92
+23,Quintana Roo,C1,Vivienda nueva en conjunto,56166,45833,160,134,81.6,563868,9.96,8.13
+23,Quintana Roo,C2,Adquisición con crédito,4297,2548,15,9,59.3,563868,0.76,0.45
+23,Quintana Roo,C3,Vivienda nueva en lote propio,29397,28422,99,95,96.68,563868,5.21,5.04
+23,Quintana Roo,C4A,Mejoramiento,39662,31763,126,101,80.08,563868,7.03,5.63
+23,Quintana Roo,C4B,Ampliación,56948,48535,187,160,85.23,563868,10.1,8.61
+23,Quintana Roo,C4C,Accesibilidad,8265,7248,32,28,87.7,563868,1.47,1.29
+23,Quintana Roo,C7,Unidades habitacionales,6606,4143,17,12,62.72,563868,1.17,0.73
+23,Quintana Roo,C8,Regularización,32912,26912,97,80,81.77,563868,5.84,4.77
+24,San Luis Potosí,C1,Vivienda nueva en conjunto,60266,53830,144,129,89.32,790881,7.62,6.81
+24,San Luis Potosí,C2,Adquisición con crédito,2087,2087,5,5,100.0,790881,0.26,0.26
+24,San Luis Potosí,C3,Vivienda nueva en lote propio,45191,40975,109,99,90.67,790881,5.71,5.18
+24,San Luis Potosí,C4A,Mejoramiento,120234,114972,292,279,95.62,790881,15.2,14.54
+24,San Luis Potosí,C4B,Ampliación,125187,120414,306,294,96.19,790881,15.83,15.23
+24,San Luis Potosí,C4C,Accesibilidad,30635,27734,74,67,90.53,790881,3.87,3.51
+24,San Luis Potosí,C7,Unidades habitacionales,2255,1757,5,4,77.92,790881,0.29,0.22
+24,San Luis Potosí,C8,Regularización,38230,36100,91,86,94.43,790881,4.83,4.56
+25,Sinaloa,C1,Vivienda nueva en conjunto,34918,25010,79,57,71.62,870827,4.01,2.87
+25,Sinaloa,C2,Adquisición con crédito,5105,2639,11,5,51.69,870827,0.59,0.3
+25,Sinaloa,C3,Vivienda nueva en lote propio,19831,16898,48,41,85.21,870827,2.28,1.94
+25,Sinaloa,C4A,Mejoramiento,40546,31053,100,76,76.59,870827,4.66,3.57
+25,Sinaloa,C4B,Ampliación,44753,35142,110,85,78.52,870827,5.14,4.04
+25,Sinaloa,C4C,Accesibilidad,9208,7528,22,18,81.75,870827,1.06,0.86
+25,Sinaloa,C7,Unidades habitacionales,1062,0,2,0,0.0,870827,0.12,0.0
+25,Sinaloa,C8,Regularización,28300,23394,71,59,82.66,870827,3.25,2.69
+26,Sonora,C1,Vivienda nueva en conjunto,98915,70888,210,149,71.67,883105,11.2,8.03
+26,Sonora,C2,Adquisición con crédito,13108,7259,29,17,55.38,883105,1.48,0.82
+26,Sonora,C3,Vivienda nueva en lote propio,36637,25451,87,60,69.47,883105,4.15,2.88
+26,Sonora,C4A,Mejoramiento,155768,111102,329,239,71.33,883105,17.64,12.58
+26,Sonora,C4B,Ampliación,119545,86075,270,198,72.0,883105,13.54,9.75
+26,Sonora,C4C,Accesibilidad,40009,31884,88,68,79.69,883105,4.53,3.61
+26,Sonora,C7,Unidades habitacionales,871,0,2,0,0.0,883105,0.1,0.0
+26,Sonora,C8,Regularización,67844,52067,150,116,76.75,883105,7.68,5.9
+27,Tabasco,C1,Vivienda nueva en conjunto,169993,154218,437,393,90.72,694930,24.46,22.19
+27,Tabasco,C2,Adquisición con crédito,4340,2223,12,6,51.22,694930,0.62,0.32
+27,Tabasco,C3,Vivienda nueva en lote propio,79302,69548,208,182,87.7,694930,11.41,10.01
+27,Tabasco,C4A,Mejoramiento,348558,323251,890,822,92.74,694930,50.16,46.52
+27,Tabasco,C4B,Ampliación,320525,297268,818,756,92.74,694930,46.12,42.78
+27,Tabasco,C4C,Accesibilidad,97523,90714,250,230,93.02,694930,14.03,13.05
+27,Tabasco,C7,Unidades habitacionales,2779,1894,11,7,68.15,694930,0.4,0.27
+27,Tabasco,C8,Regularización,170317,159853,426,399,93.86,694930,24.51,23.0
+28,Tamaulipas,C1,Vivienda nueva en conjunto,60407,52660,106,91,87.18,1058100,5.71,4.98
+28,Tamaulipas,C2,Adquisición con crédito,5591,2871,9,5,51.35,1058100,0.53,0.27
+28,Tamaulipas,C3,Vivienda nueva en lote propio,16481,13930,29,25,84.52,1058100,1.56,1.32
+28,Tamaulipas,C4A,Mejoramiento,105324,89514,180,154,84.99,1058100,9.95,8.46
+28,Tamaulipas,C4B,Ampliación,86340,75628,150,132,87.59,1058100,8.16,7.15
+28,Tamaulipas,C4C,Accesibilidad,18090,17427,29,28,96.33,1058100,1.71,1.65
+28,Tamaulipas,C7,Unidades habitacionales,4934,4934,5,5,100.0,1058100,0.47,0.47
+28,Tamaulipas,C8,Regularización,45536,38872,81,70,85.37,1058100,4.3,3.67
+29,Tlaxcala,C1,Vivienda nueva en conjunto,28934,26749,156,142,92.45,347967,8.32,7.69
+29,Tlaxcala,C2,Adquisición con crédito,438,164,3,1,37.44,347967,0.13,0.05
+29,Tlaxcala,C3,Vivienda nueva en lote propio,18030,16700,101,93,92.62,347967,5.18,4.8
+29,Tlaxcala,C4A,Mejoramiento,29168,27100,164,152,92.91,347967,8.38,7.79
+29,Tlaxcala,C4B,Ampliación,26337,24371,149,137,92.54,347967,7.57,7.0
+29,Tlaxcala,C4C,Accesibilidad,5466,5185,32,30,94.86,347967,1.57,1.49
+29,Tlaxcala,C7,Unidades habitacionales,1061,1061,6,6,100.0,347967,0.3,0.3
+29,Tlaxcala,C8,Regularización,15603,15130,89,85,96.97,347967,4.48,4.35
+30,Veracruz de Ignacio de la Llave,C1,Vivienda nueva en conjunto,485868,425801,360,317,87.64,2402304,20.23,17.72
+30,Veracruz de Ignacio de la Llave,C2,Adquisición con crédito,17886,11416,13,9,63.83,2402304,0.74,0.48
+30,Veracruz de Ignacio de la Llave,C3,Vivienda nueva en lote propio,218834,186852,165,142,85.39,2402304,9.11,7.78
+30,Veracruz de Ignacio de la Llave,C4A,Mejoramiento,786978,711184,591,539,90.37,2402304,32.76,29.6
+30,Veracruz de Ignacio de la Llave,C4B,Ampliación,738857,667811,554,506,90.38,2402304,30.76,27.8
+30,Veracruz de Ignacio de la Llave,C4C,Accesibilidad,146921,125715,110,95,85.57,2402304,6.12,5.23
+30,Veracruz de Ignacio de la Llave,C7,Unidades habitacionales,0,0,0,0,,2402304,0.0,0.0
+30,Veracruz de Ignacio de la Llave,C8,Regularización,435599,398328,325,300,91.44,2402304,18.13,16.58
+31,Yucatán,C1,Vivienda nueva en conjunto,56715,48551,165,138,85.61,683612,8.3,7.1
+31,Yucatán,C2,Adquisición con crédito,5119,3160,14,8,61.73,683612,0.75,0.46
+31,Yucatán,C3,Vivienda nueva en lote propio,42431,37400,135,118,88.14,683612,6.21,5.47
+31,Yucatán,C4A,Mejoramiento,72438,62783,232,199,86.67,683612,10.6,9.18
+31,Yucatán,C4B,Ampliación,78776,70071,255,223,88.95,683612,11.52,10.25
+31,Yucatán,C4C,Accesibilidad,29232,27678,91,84,94.68,683612,4.28,4.05
+31,Yucatán,C7,Unidades habitacionales,0,0,0,0,,683612,0.0,0.0
+31,Yucatán,C8,Regularización,29301,26317,89,79,89.82,683612,4.29,3.85
+32,Zacatecas,C1,Vivienda nueva en conjunto,34396,32153,134,125,93.48,462816,7.43,6.95
+32,Zacatecas,C2,Adquisición con crédito,2112,1467,8,6,69.46,462816,0.46,0.32
+32,Zacatecas,C3,Vivienda nueva en lote propio,13554,12671,58,53,93.49,462816,2.93,2.74
+32,Zacatecas,C4A,Mejoramiento,63664,59364,248,229,93.25,462816,13.76,12.83
+32,Zacatecas,C4B,Ampliación,55376,51076,217,198,92.23,462816,11.97,11.04
+32,Zacatecas,C4C,Accesibilidad,13391,12847,53,50,95.94,462816,2.89,2.78
+32,Zacatecas,C7,Unidades habitacionales,222,222,1,1,100.0,462816,0.05,0.05
+32,Zacatecas,C8,Regularización,35322,32548,139,127,92.15,462816,7.63,7.03

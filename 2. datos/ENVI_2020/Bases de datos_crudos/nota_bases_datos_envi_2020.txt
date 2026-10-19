@@ -1,0 +1,1 @@
+El 3 de abril de 2024, se reemplazó la tabla de la Base de datos TVIVIENDA, debido a que en la variable P4_25_6 los valores de respuesta (Sí y No) se encontraban invertidos.
